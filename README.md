@@ -21,8 +21,8 @@
 | Release 资产 | 说明 |
 |---|---|
 | `digital-image-processing-rain-class.zip` | 雨课堂全套教学课件（PDF 共 15 个文件） |
-| `2210050000_sonder_大作业参考.doc` | 期末论文复现完整报告参考（原生 Word 文档） |
+| `2210050000_sonder_final_project_reference.doc` | 期末论文复现完整报告参考（原生 Word 文档） |
 | `paper-reproduction.pptx` | 论文复现答辩演示幻灯片（原生 PPTX） |
-| `数字图象处理大作业报告模板.doc` | 课程规范报告排版模板（原生 Word 文档） |
+| `digital-image-processing-project-template.doc` | 课程规范报告排版模板（原生 Word 文档） |
 
 `notes/` 与 `exams/` 继续在 Git 中维护。
